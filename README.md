@@ -1,2 +1,2 @@
-# ResponsiveWebDes
-Basic Web Design Refresher
+# Basic Structure Refresher
+
